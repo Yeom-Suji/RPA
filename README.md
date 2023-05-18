@@ -5,7 +5,7 @@
 
 
 
-> **Note** 시연 영상은 TypeD_경영KS_사업자_휴폐업_조회PPT.pptx 파일을 다운받아 확인해주세요!<br/>
+> **Note** You can check the demonstration video by downloading "TypeD_경영KS_사업자_휴폐업_조회PPT.pptx"!<br/>
 
 <br/>
 <br/>
